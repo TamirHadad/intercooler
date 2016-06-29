@@ -1,4 +1,3 @@
-require "intercooler/version"
 
 class Intercooler
       def Gen
